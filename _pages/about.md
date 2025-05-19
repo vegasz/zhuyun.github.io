@@ -6,3 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+My research interest includes RAG.
